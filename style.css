@@ -23,6 +23,9 @@ body {
   border-radius: 5px;
   margin: 64px;
   padding: 64px;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 i {
